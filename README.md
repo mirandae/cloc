@@ -1,2 +1,2 @@
 # cloc
-in which I remember that I don't know python
+A bad copy of [sloccount](https://www.dwheeler.com/sloccount/) specifically for golang.

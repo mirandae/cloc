@@ -1,5 +1,7 @@
 #ide
 .vscode/
+# test data
+*test.go
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
